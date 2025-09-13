@@ -1,0 +1,34 @@
+# -------------------------
+# 📄 requirements.txt
+# -------------------------
+streamlit
+openai
+langchain
+langchain-openai
+langchain-community
+langchain-core
+langchain-huggingface
+sentence-transformers
+chromadb
+fpdf
+python-dotenv
+matplotlib
+networkx
+spacy
+arxiv
+PyMuPDF
+gpt4all
+pyvis
+pdfplumber
+pandas
+numpy
+scikit-learn
+nltk
+beautifulsoup4
+requests
+tqdm
+wordcloud
+umap-learn
+hdbscan
+keybert
+pyvis

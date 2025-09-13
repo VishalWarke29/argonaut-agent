@@ -1,0 +1,12 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+*.bin
+models/
+vector_db/
+memory.json
+*.sqlite3
+*.db
+.DS_Store
+static/concept_maps/
